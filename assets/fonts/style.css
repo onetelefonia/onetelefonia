@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'TelefonicaWeb-Regular';
+   font-display: swap;
+   src: url('TelefonicaWeb-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'TelefonicaWeb-Hand';
+   font-display: swap;
+   src: url('TelefonicaWeb-Hand/font.ttf');
+}
+@font-face {
+   font-family: 'TelefonicaWeb-Light';
+   font-display: swap;
+   src: url('TelefonicaWeb-Light/font.ttf');
+}
+@font-face {
+   font-family: 'D-DIN-Bold';
+   font-display: swap;
+   src: url('D-DIN-Bold/font.ttf');
+}
