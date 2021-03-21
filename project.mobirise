@@ -1209,7 +1209,7 @@
                 "overlayColor": "#ecf6ff"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/wallg9-01-01-1-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/moto-g9-plus-1-1268x664.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -1226,8 +1226,8 @@
                 "contentAlign": "center",
                 "text": "<b>Con todo lo que querés. Encontrá la línea Moto G9&nbsp;</b><br><b>en Movistar&nbsp;</b><b>y llevalo en cuotas sin interés.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"page13.html\" data-toolbar=\"-mbrBtnMove\">CONOCELO</a>  ",
-                "overlayOpacity": "0.6",
-                "overlayColor": "#ffffff"
+                "overlayOpacity": "0.7",
+                "overlayColor": "#fbf8ff"
               }
             ]
           }
