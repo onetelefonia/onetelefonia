@@ -1105,7 +1105,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/artboard1-1920x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1120,7 +1120,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Ahora tenés más gigas y nuevos beneficios.</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"page15.html\" data-toolbar=\"-mbrBtnMove\">CONOCÉ MÁS</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">CONOCÉ MÁS</a>  ",
                 "overlayOpacity": "0.6",
                 "overlayColor": "#ecf8ff"
               },
@@ -1162,7 +1162,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Conocé el teléfono que llegó </b><br><b>para revolucionar el video y la fotografía.</b><b><br></b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">CONOCÉ MÁS</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\">CONOCÉ MÁS</a> ",
                 "overlayOpacity": "0.5",
                 "overlayColor": "#ecf6ff"
               },
@@ -1210,7 +1210,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/wallg9-01-01-1-2000x1125.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
